@@ -1,0 +1,14 @@
+# Foldere generate și de sistem care NU trebuie urcate
+.idea/
+.mvn/
+java-runtime/
+out/
+target/
+
+# Fișiere executabile sau arhivate generate (le poți rula local)
+*.exe
+*.jar
+
+
+# Fisiere dependente temporare
+dependency-reduced-pom.xml
